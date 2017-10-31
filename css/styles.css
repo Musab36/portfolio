@@ -92,7 +92,7 @@ h1 {
 	text-align: center;
 }
 
-.projects,.skills {
+.projects,.skills,.contact {
 	color: white;
 	font-family: Papyrus, fantasy;
 	font-size: 20px;
@@ -190,7 +190,7 @@ div.des {
 	text-transform: none;
 }
 
-.lang {
+.lang,.contacts {
 	color: white;
 	font-family: Papyrus, fantasy;
 	font-size: 25px;
