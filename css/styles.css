@@ -92,7 +92,7 @@ h1 {
 	text-align: center;
 }
 
-.projects {
+.projects,.skills {
 	color: white;
 	font-family: Papyrus, fantasy;
 	font-size: 20px;
@@ -188,5 +188,11 @@ div.des {
 	margin: 0;
 	text-align: center;
 	text-transform: none;
+}
+
+.lang {
+	color: white;
+	font-family: Papyrus, fantasy;
+	font-size: 25px;
 }
 
